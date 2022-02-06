@@ -1,0 +1,19 @@
+﻿  Bucket.cpp
+E:\cmpt454\assn\assn2\assignment2\assignment2\Bucket.cpp(89,13): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+  ExtensibleHashTable.cpp
+E:\cmpt454\assn\assn2\assignment2\assignment2\ExtensibleHashTable.cpp(11,23): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\cmpt454\assn\assn2\assignment2\assignment2\ExtensibleHashTable.cpp(22,23): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\cmpt454\assn\assn2\assignment2\assignment2\ExtensibleHashTable.cpp(40,23): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\cmpt454\assn\assn2\assignment2\assignment2\ExtensibleHashTable.cpp(57,32): warning C4244: “初始化”: 从“double”转换到“unsigned int”，可能丢失数据
+E:\cmpt454\assn\assn2\assignment2\assignment2\ExtensibleHashTable.cpp(67,26): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\cmpt454\assn\assn2\assignment2\assignment2\ExtensibleHashTable.cpp(69,23): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\cmpt454\assn\assn2\assignment2\assignment2\ExtensibleHashTable.cpp(108,17): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\cmpt454\assn\assn2\assignment2\assignment2\ExtensibleHashTable.cpp(109,17): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\cmpt454\assn\assn2\assignment2\assignment2\ExtensibleHashTable.cpp(126,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\cmpt454\assn\assn2\assignment2\assignment2\ExtensibleHashTable.cpp(133,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\cmpt454\assn\assn2\assignment2\assignment2\ExtensibleHashTable.cpp(154,16): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\cmpt454\assn\assn2\assignment2\assignment2\ExtensibleHashTable.cpp(156,12): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\cmpt454\assn\assn2\assignment2\assignment2\ExtensibleHashTable.cpp(166,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\cmpt454\assn\assn2\assignment2\assignment2\ExtensibleHashTable.cpp(173,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码...
+  assignment2.vcxproj -> E:\cmpt454\assn\assn2\assignment2\Debug\assignment2.exe
